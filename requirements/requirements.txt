@@ -2,4 +2,4 @@ spacy>=3.4.1
 PyRuSH>=1.0.8
 pysbd==0.3.4
 jsonschema
-medspacy_quickumls @ git+https://github.com/medspacy/QuickUMLS.git@master
+medspacy_quickumls @ git+https://github.com/jdposada/QuickUMLS.git@master
